@@ -1,4 +1,4 @@
-pid,age,gender,dead,statins,low_molec_weight_heparin,beta_blocker,warfarin,aspirin,cardioversion 
+pid,age,gender,dead,statins,low_molec_weight_heparin,beta_blocker,warfarin,aspirin,cardioversion
 97963,86,0,1,0,0,0,0,0,0 
 56459,81,1,1,0,0,0,0,0,0 
 54409,75,1,1,1,0,1,0,0,0 
